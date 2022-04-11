@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srgio1
-- 👀 I’m interested in ... bioprocess development, upstream bioprocessing and generally other scientific subjects.
+- 👀 I’m interested in ... biology, bioprocess development, upstream bioprocessing and generally other scientific subjects.
 - 🌱 I’m currently learning ... java
 - 💞️ I’m looking to collaborate on ... I don't know, I'm just exploring github
 - 📫 How to reach me ... github messages
